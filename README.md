@@ -3,3 +3,7 @@ Python Programming Language is used to make apps.
 
 # Branches
 Different Branches are there for different libraries. CLI Terminal Apps Branch is for apps like manage.py. Three-Dimesional can be for ursina library. GUI can be for tkinter library.
+
+# Channels:
+  Crazy Guide: https://youtube.com/@Crazy_Guide
+  Crazy Guide Shorts: https://youtube.com/@CrazyGuideShorts
